@@ -1,0 +1,2 @@
+# prac4
+factorial 
